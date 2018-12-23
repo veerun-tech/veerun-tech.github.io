@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://veerun-tech.github.io/"/>
-  <updated>2018-12-23T08:08:22.950Z</updated>
+  <updated>2018-12-23T11:52:15.540Z</updated>
   <id>https://veerun-tech.github.io/</id>
   
   <author>
@@ -17,23 +17,27 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://veerun-tech.github.io/hello-world/"/>
-    <id>https://veerun-tech.github.io/hello-world/</id>
-    <published>2018-12-23T08:08:22.950Z</published>
-    <updated>2018-12-23T08:08:22.950Z</updated>
+    <title>The Next Web of Open Linked Data</title>
+    <link href="https://veerun-tech.github.io/the-next-web-of-open-linked-data/"/>
+    <id>https://veerun-tech.github.io/the-next-web-of-open-linked-data/</id>
+    <published>2018-12-23T10:54:23.000Z</published>
+    <updated>2018-12-23T11:52:15.540Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash hljs"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="hljs-string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash hljs"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash hljs"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash hljs"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>下面是互联网之父<a href="https://en.wikipedia.org/wiki/Tim_Berners-Lee" target="_blank" rel="noopener">Tim Berners-Lee</a>在<a href="https://www.ted.com" target="_blank" rel="noopener">TED</a>上有关<a href="http://www.w3.org/DesignIssues/LinkedData.html" target="_blank" rel="noopener">Linked Data</a>技术的<a href="https://www.ted.com/talks/tim_berners_lee_on_the_next_web" target="_blank" rel="noopener">演讲视频</a>：</p><video src="/assets/video/The_Next_Web_of_Open_Linked_Data.mp4" controls="controls" style="max-width:100%; display:block; margin-left:auto; margin-right:auto;"><br>Sorry, your browser does not support the video tag! But, you can download it from <a href="/assets/video/The_Next_Web_of_Open_Linked_Data.mp4">here</a>.<br></video><blockquote><p><a href="https://unix.stackexchange.com/questions/23351/how-can-i-embed-subtitles-into-videos-with-ffmpeg#answer-168353" target="_blank" rel="noopener">Embeded subtitles into video</a>: <code>$ ffmpeg -i video.mp4 -vf subtitles=video.srt video-with-subtitle.mp4</code></p></blockquote>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;p&gt;下面是互联网之父&lt;a href=&quot;https://en.wikipedia.org/wiki/Tim_Berners-Lee&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Tim Berners-Lee&lt;/a&gt;在&lt;a href=&quot;https://www.t
       
     
     </summary>
     
+      <category term="下一代互联网技术" scheme="https://veerun-tech.github.io/categories/%E4%B8%8B%E4%B8%80%E4%BB%A3%E4%BA%92%E8%81%94%E7%BD%91%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="Linked Data" scheme="https://veerun-tech.github.io/tags/Linked-Data/"/>
     
   </entry>
   
