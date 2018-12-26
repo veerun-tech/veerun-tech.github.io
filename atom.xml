@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://veerun-tech.github.io/"/>
-  <updated>2018-12-24T14:15:48.200Z</updated>
+  <updated>2018-12-26T05:55:25.840Z</updated>
   <id>https://veerun-tech.github.io/</id>
   
   <author>
@@ -21,17 +21,16 @@
     <link href="https://veerun-tech.github.io/the-next-web-of-open-linked-data/"/>
     <id>https://veerun-tech.github.io/the-next-web-of-open-linked-data/</id>
     <published>2018-12-23T10:54:23.000Z</published>
-    <updated>2018-12-24T14:15:48.200Z</updated>
+    <updated>2018-12-26T05:55:25.840Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;下面是互联网之父&lt;a href=&quot;https://en.wikipedia.org/wiki/Tim_Berners-Lee&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Tim Berners-Lee&lt;/a&gt;在&lt;a
-        
-      
+      &lt;p&gt;下面是互联网之父&lt;a href=&quot;https://en.wikipedia.org/wiki/Tim_Berners-Lee&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Tim Berners-Lee&lt;/a&gt;在&lt;a href=&quot;https://www.ted.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;TED&lt;/a&gt;上有关&lt;a href=&quot;https://en.wikipedia.org/wiki/Linked_data&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Linked Data&lt;/a&gt;技术的&lt;a href=&quot;https://www.ted.com/talks/tim_berners_lee_on_the_next_web&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;演讲视频&lt;/a&gt;：&lt;/p&gt;
+&lt;video src=&quot;/assets/video/The_Next_Web_of_Open_Linked_Data.mp4&quot; controls=&quot;controls&quot; style=&quot;max-width:100%; display:block; margin-left:auto; margin-right:auto;&quot;&gt;&lt;br&gt;Sorry, your browser does not support the video tag! But, you can download it from &lt;a href=&quot;/assets/video/The_Next_Web_of_Open_Linked_Data.mp4&quot;&gt;here&lt;/a&gt;.&lt;br&gt;&lt;/video&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://unix.stackexchange.com/questions/23351/how-can-i-embed-subtitles-into-videos-with-ffmpeg#answer-168353&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Embeded subtitles into video&lt;/a&gt;: &lt;code&gt;$ ffmpeg -i video.mp4 -vf subtitles=video.srt video-with-subtitle.mp4&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
     
     </summary>
     
