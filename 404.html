@@ -141,7 +141,7 @@
 
     .copy {
         margin-top: 0px;
-        width: 120px;
+        width: 120px !important;
     }
     .tm {
         vertical-align: super;
@@ -172,6 +172,8 @@
     <div id="cloud2" style="left: 1154px;"></div>
     <img id="gull" src="./404/gulls-404.png" style="top: -9999px; left: -9999px;">
 
+    <canvas id="ripple" width="1921" height="977" style="width: 1921px; height: 977px;"></canvas>
+
     <ul class="bottomLinkList">
         <li><a href="/">Home</a></li>
         <li><a href="mailto:veerun@163.com">Contact Us</a></li>
@@ -194,7 +196,5 @@
     else if(parseInt(getComputedStyle(k).height,10))setTimeout(m,1E3);else throw"no fish";}catch(a){u(k,"load",function(){m()})}u(l,"load",function(){J=!0;l.style.top="-9999px";l.style.left="-9999px";D(0,0);S()});u(document.getElementById("ripple-control"),"mouseover",function(a){if(g.getContext&&!B)clearInterval(C),p=Math.floor(t/2),I=a.pageX,z=1,h=0,f=[],f[0]=[H,0],C=setInterval(O,30),B=!0});u(window,"resize",function(){F();m();v();D()})}(),F());(function(){var a=0,b=document.getElementById("cloud1"),
     c=document.getElementById("cloud2"),e=parseInt(getComputedStyle(b).left,10),f=parseInt(getComputedStyle(c).left,10);setInterval(function(){if(++a==2)a=0,e+=1,b.style.left=e+"px";f+=1;c.style.left=f+"px";e>d+50&&(e=-200);f>d+50&&(f=-100)},50)})()})();
     </script>
-
-    <canvas id="ripple" width="1921" height="977" style="width: 1921px; height: 977px;"></canvas>
 </body>
 </html>
