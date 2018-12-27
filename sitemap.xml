@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://veerun-tech.github.io/about/index.html</loc>
+    
+    <lastmod>2018-12-27T14:30:05.380Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://veerun-tech.github.io/404.html</loc>
     
     <lastmod>2018-12-26T14:37:02.500Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>https://veerun-tech.github.io/the-next-web-of-open-linked-data/</loc>
     
     <lastmod>2018-12-26T05:55:25.840Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://veerun-tech.github.io/about/index.html</loc>
-    
-    <lastmod>2018-12-25T02:25:15.270Z</lastmod>
     
   </url>
   
