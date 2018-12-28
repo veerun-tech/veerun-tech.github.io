@@ -360,6 +360,17 @@ img.thumbnail {
 .content blockquote footer strong + cite {
   margin-left: 0.5em;
 }
+.thumbnail-source {
+  text-align: center;
+  margin: 0;
+  font-size: 0.85rem;
+  font-family: "Source Code Pro", monospace, "Microsoft YaHei";
+  color: #7d7d7d;
+}
+.thumbnail-source a {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+}
 .post-copyright {
   position: relative;
   margin-bottom: 1rem;
